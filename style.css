@@ -165,3 +165,11 @@ i {
 		left: -25px;
 	}
 }
+
+#homeContainer {
+    top:50px;
+    bottom:50px;
+    width:100%;
+    background:black;
+    color:white;
+}
