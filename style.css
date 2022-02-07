@@ -2,6 +2,7 @@
 
 body{
 	font-family: 'Roboto', sans-serif;
+	height: 10px;
 }
 * {
 	margin: 0;
@@ -165,10 +166,11 @@ i {
 		left: -25px;
 	}
 }
-
 #homeContainer {
-    top:50px;
-    bottom:50px;
-    width:100%;
-    color:white;
+	width: 100%;
+	position: fixed;
+	background-color: black;
+}
+#bodyFormater {
+	background-color: red;
 }
