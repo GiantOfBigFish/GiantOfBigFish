@@ -166,13 +166,9 @@ i {
 		left: -25px;
 	}
 }
-#bodyFormater {
-	background-color: red;
-}
 
 #homeContainer {
 	width: 100%;
 	height: 100%;
 	position: fixed;
-	background-color: black;
 }
