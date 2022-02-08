@@ -13,7 +13,7 @@
 
 </head>
 
-<body>
+<body id="bodyFormater">
     <nav class="navbar navbar-expand-custom navbar-mainbg">
         <a class="navbar-brand navbar-logo" href="#">Esteban Hernandez</a>
         <button class="navbar-toggler" type="button" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -26,9 +26,6 @@
                     <div class="left"></div>
                     <div class="right"></div>
                 </div>
-                <li class="nav-item ">
-                    <a class="nav-link" href="#" onclick="loadAbout()"><i class="far fa-address-book"></i>About</a>
-                </li>
                 <li class="nav-item active">
                     <a class="nav-link" href="#" onclick="loadHome()"> <i class="fas fa-mug-hot"></i> </i>Home </a>
                 </li>
@@ -46,9 +43,10 @@
                 <p style="color:#5161ce"> ... </p>
             </ul>
         </div>
-
     </nav>
-    <iframe id="homeContainer" src='./modules/home.html'></iframe>
+    <div>
+        <iframe id="homeContainer" src='./modules/home.html'></iframe>
+    </div>
     <script>
         function loadAbout() {
             console.log('about');
@@ -60,15 +58,15 @@
         }
         function loadSkills() {
             console.log('skills');
-            document.getElementById("homeContainer").innerHTML = './modules/skills.html';
+            document.getElementById("homeContainer").src = './modules/skills.html';
         }
         function loadPorfolio() {
             console.log('portfolio');
-            document.getElementById("homeContainer").innerHTML = './modules/porfloio.html';
+            document.getElementById("homeContainer").src = './modules/portfolio.html';
         }
         function loadConcactMe() {
             console.log('contact me');
-            document.getElementById("homeContainer").innerHTML = './modules/contactMe.html';
+            document.getElementById("homeContainer").src = './modules/contactMe.html';
         }
     </script>
 
