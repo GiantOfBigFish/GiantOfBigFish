@@ -79,7 +79,6 @@ node.append('circle')
     .attr('cx', function(d) { return d.x; })
     .attr('cy', function(d) { return d.y; })
     .attr('r', function(d, i) {
-        console.log(d.value);
         if (i > 0) {
             return circleWidth + d.value;
         } else {
