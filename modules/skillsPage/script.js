@@ -25,7 +25,7 @@ var nodes = [
     { name: "🍃 Mongo", target: [0, 1, 2], value: 35 },
     { name: "💾 SQL Server", target: [0, 1, 2, 3, 9], value: 67 },
     { name: "🎋 git", target: [0, 1, 4, 5, 6, 7, 8, 10], value: 68 },
-    //  { name: "Postman", target: [0, 1, 2, 7, 8], value: 16 },
+    { name: "🌐 .Net Framework", target: [0, 1, 2, 7, 8], value: 70 },
     //  { name: "Design Patterns", target: [0, 1, 2, 7, 8], value: 25 },
     { name: " 👨‍🚀 Postman", target: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12], value: 30 },
     { name: "🖥️ Sencha", target: [0, 1, 2, 7, 8], value: 30 },
