@@ -44,6 +44,8 @@ function hideMenu() {
         console.log("mobile");
         $(".navbar-collapse").slideToggle(300);
         setTimeout(function() { test(); });
+    } else {
+        console.log("not mobile");
     }
 }
 

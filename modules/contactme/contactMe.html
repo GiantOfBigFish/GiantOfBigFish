@@ -17,13 +17,21 @@
             <input id="name" name="name" class="feedback-input" placeholder="What your Mom calls you" />
             <textarea id="message" name="mssage" rows="10" class="feedback-input" placeholder="Tell me what's on your mind..."></textarea>
             <input id="email" name="email" type="email" class="feedback-input" value="" required placeholder="your.name@email.com" />
-            <input type="submit" value="SUBMIT" />
+            <input class="trigger_popup_fricc" type="submit" value="SUBMIT" />
         </div>
-        <div class="thankyou_message" style="display:none;">
-            <h4>Thank you for contact me, I will write you soon ✨ 🌘 🛸</h4>
+
+        <div class="hover_bkgr_fricc thankyou_message" style="display:none;">
+            <span class="helper"></span>
+            <div>
+                <div class="popupCloseButton">&times;</div>
+                <h4>Thank you for contact me, I will write you soon ✨ 🌘 🛸</h4>
+            </div>
         </div>
+
     </form>
     <script data-cfasync="false" src="form-submission-handler.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="scriptContactMe.js"></script>
 </body>
 
 </html>
