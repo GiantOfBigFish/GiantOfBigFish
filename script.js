@@ -40,11 +40,12 @@ $(".navbar-toggler").click(function() {
 });
 
 function hideMenu() {
-
-    $(".navbar-collapse").slideToggle(300);
-    setTimeout(function() { test(); });
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        console.log("mobile");
+        $(".navbar-collapse").slideToggle(300);
+        setTimeout(function() { test(); });
+    }
 }
-
 
 // --------------add active class-on another-page move----------
 jQuery(document).ready(function($) {
