@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **funcesteban@gmail.com**
 
-- 🥷 Visit my portfolio [here](https://giantofbigfish.github.io/GiantOfBigFish/)
+<!--  🥷 Visit my portfolio [here](https://giantofbigfish.github.io/GiantOfBigFish/) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
