@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center"> I’m Esteban, a passionate backend developer from Guatemala, working since 2015, my strong is .net dev suite and OP languages, building and supporting high performance applications oriented to prevent the financial crime. 
+<h3 align="center"> 
+I’m Esteban, a passionate backend developer with 7+ years of experience building and supporting high performance application for companies in US and Latam. 
+I work in a product mindset way to understand and satisfy the customer’s needs.
+I have experience with each stage of software development life cycle, using agile methodologies, CI/CD, designs patterns, Cloud Computing Services (AWS), arquitecture patterns (micro services) and I also have soft skills such as teamwork, emotional intelligence, empathy and communication.
 </h3>
 
 - 🔭 I’m currently working on [Autoweb](https://www.autoweb.com/)
