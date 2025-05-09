@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center"> 
-I’m Esteban, a passionate backend developer with 7+ years of experience building and supporting high performance application for companies in US and Latam. 
+I’m Esteban, a passionate backend developer with 9+ years of experience building and supporting high performance application for companies in US and Latam. 
 I work in a product mindset way to understand and satisfy the customer’s needs.
 I have experience with each stage of software development life cycle, using agile methodologies, CI/CD, designs patterns, Cloud Computing Services (AWS), arquitecture patterns (micro services) and I also have soft skills such as teamwork, emotional intelligence, empathy and communication.
 </h3>
@@ -11,9 +11,7 @@ I have experience with each stage of software development life cycle, using agil
 
 - 👨‍💻 All of my projects are available at [https://github.com/GiantOfBigFish/](https://github.com/GiantOfBigFish/)
 
-- 📝 I regularly write articles on [https://estebanblog.netlify.app/blog/](https://estebanblog.netlify.app/blog/)
-
-- 💬 Ask me about **C#, SQL Server, nodeJS**
+- 💬 Ask me about **C#, .Net, AWS, Design Patterns**
 
 - 📫 How to reach me **funcesteban@gmail.com**
 
